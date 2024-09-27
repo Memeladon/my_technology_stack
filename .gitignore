@@ -1,0 +1,6 @@
+*.vscode/
+*.idea/
+*.local/
+
+# just no
+*.env
